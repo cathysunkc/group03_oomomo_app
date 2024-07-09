@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+    background-image: url("../public/images/oomomo_bg.png");
+    background-size: cover; /* Optional: 'contain', 'repeat', 'auto' */
+    background-position: top; /* Optional: 'top', 'bottom', 'left', 'right' */
+
 }
 
 code {
